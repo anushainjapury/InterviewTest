@@ -169,7 +169,7 @@ namespace InterviewTest
 
             Console.WriteLine($"Total Profit: {customer.GetTotalProfit().ToString("c")}");
 
-            Console.WriteLine($"Number of Items Recorded {customer.TotalOrderedItems}");
+            //Console.WriteLine($"Number of Items Recorded {customer.TotalOrderedItems}");
 
             Console.WriteLine();
         }
